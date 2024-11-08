@@ -1,0 +1,24 @@
+baseURL = 'https://dragon540.github.io/'
+languageCode = 'en-us'
+title = "Shobhit's homepage"
+
+theme = "hello-friend-ng"
+paginate = 10
+
+enableSharingButtons = true
+
+[[menu.main]]
+        identifier = "github"
+        name = "Github"
+        url = "https://www.github.com/dragon540/"
+
+[[menu.main]]
+        identifier = "linkedin"
+        name = "Linkedin"
+        url = "https://www.linkedin.com/in/shobhit21/"
+
+[[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
