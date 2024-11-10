@@ -2,7 +2,7 @@ baseURL = 'https://dragon540.github.io/'
 languageCode = 'en-us'
 title = "Shobhit's homepage"
 
-theme = "hello-friend-ng"
+theme = "hugo-simple"
 paginate = 10
 
 enableSharingButtons = true
